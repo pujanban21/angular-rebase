@@ -20,7 +20,7 @@ webpackEmptyAsyncContext.id = "../../../../../src/$$_lazy_route_resource lazy re
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<h1>Welcome to app!</h1>"
+module.exports = "<h1>Welcome to app!</h1>\r\n\r\n\r\nNot sure whether this is working or not"
 
 /***/ }),
 
